@@ -1,0 +1,16 @@
+.selControl{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+
+.selControl label {
+    margin-bottom: .6em;
+    font-weight: bold;
+}
+
+.selControl select{
+    padding: .7em;
+    border-radius: 0;
+    border: none;
+}
